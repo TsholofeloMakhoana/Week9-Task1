@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cal.Logic/1.0.0": {
+        "dependencies": {
+          "Cal.Models": "1.0.0"
+        },
+        "runtime": {
+          "Cal.Logic.dll": {}
+        }
+      },
+      "Cal.Models/1.0.0": {
+        "runtime": {
+          "Cal.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cal.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cal.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Tshepang Messi 10\Desktop\WomanTechC#\Task1\CalculatorTask\OpenSource\Cal.Models\bin\Debug\netcoreapp3.1\Cal.Models.deps.json
+C:\Users\Tshepang Messi 10\Desktop\WomanTechC#\Task1\CalculatorTask\OpenSource\Cal.Models\bin\Debug\netcoreapp3.1\Cal.Models.dll
+C:\Users\Tshepang Messi 10\Desktop\WomanTechC#\Task1\CalculatorTask\OpenSource\Cal.Models\bin\Debug\netcoreapp3.1\Cal.Models.pdb
+C:\Users\Tshepang Messi 10\Desktop\WomanTechC#\Task1\CalculatorTask\OpenSource\Cal.Models\obj\Debug\netcoreapp3.1\Cal.Models.csproj.AssemblyReference.cache
+C:\Users\Tshepang Messi 10\Desktop\WomanTechC#\Task1\CalculatorTask\OpenSource\Cal.Models\obj\Debug\netcoreapp3.1\Cal.Models.AssemblyInfoInputs.cache
+C:\Users\Tshepang Messi 10\Desktop\WomanTechC#\Task1\CalculatorTask\OpenSource\Cal.Models\obj\Debug\netcoreapp3.1\Cal.Models.AssemblyInfo.cs
+C:\Users\Tshepang Messi 10\Desktop\WomanTechC#\Task1\CalculatorTask\OpenSource\Cal.Models\obj\Debug\netcoreapp3.1\Cal.Models.csproj.CoreCompileInputs.cache
+C:\Users\Tshepang Messi 10\Desktop\WomanTechC#\Task1\CalculatorTask\OpenSource\Cal.Models\obj\Debug\netcoreapp3.1\Cal.Models.dll
+C:\Users\Tshepang Messi 10\Desktop\WomanTechC#\Task1\CalculatorTask\OpenSource\Cal.Models\obj\Debug\netcoreapp3.1\Cal.Models.pdb
